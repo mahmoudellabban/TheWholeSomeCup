@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TheWholeSomeCup/static/css/main.d8743520.css",
+    "main.js": "/TheWholeSomeCup/static/js/main.0d275dd0.js",
+    "static/media/barista.jpg": "/TheWholeSomeCup/static/media/barista.a97cad959e1264132b29.jpg",
+    "static/media/cozy.jpg": "/TheWholeSomeCup/static/media/cozy.c12e9fab31a315bb2bd7.jpg",
+    "static/media/pexels-afta-putta-gunawan-683039.jpg": "/TheWholeSomeCup/static/media/pexels-afta-putta-gunawan-683039.2f33d3ddce9dfeed4204.jpg",
+    "static/media/menu.jpg": "/TheWholeSomeCup/static/media/menu.723a7f6ff0a00bb86cdf.jpg",
+    "static/media/coffee.jpg": "/TheWholeSomeCup/static/media/coffee.643854400f4c1fa0a1a7.jpg",
+    "static/media/bakery.jpg": "/TheWholeSomeCup/static/media/bakery.d51149975fe6ee95770f.jpg",
+    "static/media/logo.png": "/TheWholeSomeCup/static/media/logo.f946b894a93adefe398a.png",
+    "index.html": "/TheWholeSomeCup/index.html",
+    "main.d8743520.css.map": "/TheWholeSomeCup/static/css/main.d8743520.css.map",
+    "main.0d275dd0.js.map": "/TheWholeSomeCup/static/js/main.0d275dd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8743520.css",
+    "static/js/main.0d275dd0.js"
+  ]
+}
